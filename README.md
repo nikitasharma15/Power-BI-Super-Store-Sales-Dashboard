@@ -5,7 +5,7 @@ Tools :
 Microsoft Excel, MySQL, Microsoft Power-BI 
 
 Steps :
-1. Import Data Microsoft Excel to Power-BI.
+1. Import Data CSV File to Power-BI.
 2. Data Cleaning 🧹 
 3. Interactive Dashboard Creation 
 4. Data Analysis.
